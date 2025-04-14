@@ -1,7 +1,6 @@
 # mint-backgrounds-rebecca
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-rebecca?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-rebecca-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-rebecca-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-rebecca)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-rebecca`. Instead of building the
